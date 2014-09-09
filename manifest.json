@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "description of WebFlix",
+    "framework": "ubuntu-sdk-14.10-dev2",
+    "hooks": {
+        "webflix": {
+            "apparmor": "webflix.apparmor",
+            "desktop": "webflix.desktop"
+        }
+    },
+    "maintainer": "Micah Losli <micah.losli@gmail.com>",
+    "name": "com.ubuntu.developer.mlosli.webflix",
+    "title": "WebFlix",
+    "version": "0.1"
+}

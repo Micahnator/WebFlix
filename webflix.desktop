@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=webflix
+Exec=qmlscene $@ main.qml
+Icon=WebFlix.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
